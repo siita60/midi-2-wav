@@ -1,0 +1,1 @@
+docker compose run python3  python /mount/convert_midi_to_wav.py $1 $2 --rm
