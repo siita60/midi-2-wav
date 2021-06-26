@@ -1,2 +1,5 @@
 # サウンドフォントを除外
 *.sf2
+# inout ooutput file を除外
+*.mid
+*.wav
